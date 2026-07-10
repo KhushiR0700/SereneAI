@@ -20,7 +20,7 @@ SereneAI is an AI-powered interview preparation platform that helps users improv
 
 ---
 
-### Interview Setup
+### Interview Studio
 
 ![Interview Studio](./screenshots/interview-studio.png)
 
