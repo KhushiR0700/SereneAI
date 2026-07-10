@@ -6,6 +6,38 @@ SereneAI is an AI-powered interview preparation platform that helps users improv
 
 ---
 
+## Preview
+
+### Landing Page
+
+![Landing Page](./screenshots/landing-page.png)
+
+---
+
+### Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+---
+
+### Interview Setup
+
+![Interview Setup](./screenshots/interview-studio.png)
+
+---
+
+### Live Interview
+
+![Interview Session](./screenshots/interview-session.png)
+
+---
+
+### Pronunciation Lab
+
+![Pronunciation Lab](./screenshots/pronunciation-lab.png)
+
+----
+
 # Overview
 
 Traditional interview preparation platforms evaluate a session in isolation.
